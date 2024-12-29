@@ -1,0 +1,61 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "123-456-7890",
+    "favoriteBooks": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publicationYear": 1813,
+        "isbn": "978-3-16-148410-0",
+        "publisher": "T. Egerton"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publicationYear": 1949,
+        "isbn": "978-0-452-28423-4",
+        "publisher": "Secker & Warburg"
+      }
+    ],
+    "subscribed": true
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phoneNumber": "987-654-3210",
+    "favoriteBooks": [
+      {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "publicationYear": 1815,
+        "isbn": "978-0-19-953556-9",
+        "publisher": "John Murray"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "phoneNumber": "555-123-4567",
+    "favoriteBooks": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publicationYear": 1960,
+        "isbn": "978-0-06-112008-4",
+        "publisher": "J.B. Lippincott & Co."
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publicationYear": 1949,
+        "isbn": "978-0-452-28423-4",
+        "publisher": "Secker & Warburg"
+      }
+    ],
+    "subscribed": true
+  }
+]
